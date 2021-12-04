@@ -5,4 +5,6 @@ I think you will forgive my messy code.
 
 In this to_do_list program, you can create different lists and inside each list you can add your tasks. Each list created will get a different random color. You can also edit, remove, and save your lists/tasks.
 
+To go into a list, double click on it.
+
 Thanks for reading.
